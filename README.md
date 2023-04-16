@@ -7,9 +7,9 @@
   <li>bar</li>
   <li>pagamento</li>
    
-      <li>cartão</li>
-      <li>pix</li>
-      <li>dinheiro</li>
+      cartão
+      pix
+      dinheiro
    
   <li>pedido</li>
   <li>mesa</li>
